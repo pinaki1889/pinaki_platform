@@ -1,0 +1,9 @@
+id,password,last_login,is_superuser,username,last_name,email,is_staff,is_active,date_joined,first_name
+1,pbkdf2_sha256$216000$eMGRpgXdfRKV$+yc6tZC90z75tyeM+wFwsbctUVmTfo7LsySF0sZVnp8=,2021-02-08 06:32:21.199732,1,pinaki2000,,pinaki.subhra.b@gmail.com,1,1,2020-12-29 19:22:31.769496,
+2,pbkdf2_sha256$216000$NfO5pni15P9g$QVhU38oOENZhw4tUs4Rf3ite2fXr1M+VN9QewAohBcQ=,2020-12-30 14:29:18.930537,0,animesh108,Mandol,bkb@gmail.com,0,1,2020-12-30 14:28:17.958050,Animesh
+3,pbkdf2_sha256$216000$AS91SHnSpOtj$Vspu+5tr+Ws571JGZHO7ItEPoUj/9tN3aQ7IGseDyFI=,,0,sayon20,Islam,abc@gmail.com,0,1,2020-12-30 21:31:53.613952,
+4,pbkdf2_sha256$216000$uMevKilvg2Q7$BpCSedxWV2DYSfEguYCNLF+gvdsy1XUqBFoYuyeTH2A=,2021-02-08 06:35:33.971209,0,soham20,Nandi,abc@gmail.com,0,1,2020-12-30 21:34:16.068100,Soham
+5,pbkdf2_sha256$216000$Kby6FSaPURI3$+kZCPJxnQEcBrXN5wCIb4WT31vXv3STadH4EbTXKtw8=,,0,randrita20,Sarkar,abc@gmail.com,0,1,2020-12-30 21:56:15.681577,Randrita
+6,pbkdf2_sha256$216000$dMQ94hIMCqAK$4Bl3HVPJHHPYPTdou/Rjqpk2/FGsD1k4bGo9fVsHKwU=,2020-12-30 21:58:52.105524,0,randrita19,Sarkar,abc@gmail.com,0,1,2020-12-30 21:57:55.370279,Randrita
+7,pbkdf2_sha256$216000$0bTG6SVnZIjE$Dkld0YG5KqGx7cYxvR/3q2/MD4h2cotUOKPYV+D9B1s=,2021-01-01 11:31:13.857054,0,haridas200,Pal,haridasq@gmail.com,0,1,2021-01-01 11:30:29.683528,Haridas
+8,pbkdf2_sha256$216000$7lpgSkevcyR0$NV2cnFXkjdOKRVdIQ0z7Ng4nYLe4KEZdpGnH9eQkKRc=,2021-01-02 10:00:30.100553,0,partha20,roy,dfg@gmail.com,0,1,2021-01-02 09:59:17.381394,partha
